@@ -1,0 +1,2831 @@
+{
+  "as_of": "2026-10-13",
+  "period_start": "2026-09-14",
+  "generated_at": "2026-10-13T20:02:23+09:00",
+  "title": "뉴스로 읽는 국내 증시",
+  "intro": "중동의 에너지·항로 불안부터 대미 투자, 원화 스테이블코인, 신약 허가까지. 최근 한 달에 부각된 사건을 중심으로 관련 종목과 다음 확인할 재료를 모았습니다.",
+  "market_context": [
+    {
+      "text": "중동 긴장과 에너지 시설 피격 보도는 유가·가스 공급, 해운 운임, 방공 수출을 서로 다른 경로로 연결하는 재료입니다.",
+      "source_ids": [
+        "n1",
+        "n2",
+        "n6"
+      ]
+    },
+    {
+      "text": "대미 투자와 국내 개발·제도 변화는 확정 발표뿐 아니라 검토와 기대 단계의 뉴스도 많습니다. 알래스카 LNG 투자 여부 미확정처럼 진행 단계를 함께 읽어야 합니다.",
+      "source_ids": [
+        "n3",
+        "e3-1",
+        "n7",
+        "n9"
+      ]
+    },
+    {
+      "text": "신약 허가·글로벌 신작·소비 이벤트는 개별 기업별 결과를 확인할 재료입니다. 국경절처럼 지난 행사는 방문객과 매출 등 후속 지표로 이어서 살펴봅니다.",
+      "source_ids": [
+        "n10",
+        "n15",
+        "n16",
+        "n18"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "kind",
+      "title": "상장법인 목록 · 업종 및 주요 제품",
+      "publisher": "한국거래소 KIND",
+      "date": null,
+      "url": "https://kind.krx.co.kr/corpgeneral/corpList.do?method=download&searchType=13",
+      "kind": "background"
+    },
+    {
+      "id": "n1",
+      "title": "사우디 시설 피격 · 유가·가스 공급 불안 관련 보도",
+      "publisher": "newsis.com",
+      "date": "2026-10-13",
+      "url": "https://www.newsis.com/view/NISX20261013_0003822987",
+      "kind": "news"
+    },
+    {
+      "id": "e1-1",
+      "title": "10/13 고유가·석유 최고가격제",
+      "publisher": "fnnews.com",
+      "date": "2026-10-13",
+      "url": "https://www.fnnews.com/news/202610131443045085",
+      "kind": "news"
+    },
+    {
+      "id": "n2",
+      "title": "중동 항로 차질 · 해운 운임 재부각 관련 보도",
+      "publisher": "mk.co.kr",
+      "date": "2026-10-12",
+      "url": "https://www.mk.co.kr/news/stock/12173322",
+      "kind": "news"
+    },
+    {
+      "id": "e2-1",
+      "title": "10/12 운임과 해운주 반응",
+      "publisher": "biz.chosun.com",
+      "date": "2026-10-12",
+      "url": "https://biz.chosun.com/stock/stock_general/2026/10/12/O4ATE6CYNBA7JOUKDNQPJNUXZU/",
+      "kind": "news"
+    },
+    {
+      "id": "n3",
+      "title": "대미 투자 · 알래스카 LNG 검토 관련 보도",
+      "publisher": "mobile.newsis.com",
+      "date": "2026-10-01",
+      "url": "https://mobile.newsis.com/view/NISX20261001_0003809994",
+      "kind": "news"
+    },
+    {
+      "id": "e3-1",
+      "title": "10/01 산업부: 투자 여부 미확정",
+      "publisher": "yna.co.kr",
+      "date": "2026-10-01",
+      "url": "https://www.yna.co.kr/amp/view/AKR20261001082800003",
+      "kind": "news"
+    },
+    {
+      "id": "n4",
+      "title": "대미 투자 · 미국 원전 사업 기대 관련 보도",
+      "publisher": "mobile.newsis.com",
+      "date": "2026-10-01",
+      "url": "https://mobile.newsis.com/view/NISX20261001_0003809994",
+      "kind": "news"
+    },
+    {
+      "id": "e4-1",
+      "title": "09/22 대미투자 사업별 추진 단계",
+      "publisher": "yna.co.kr",
+      "date": "2026-09-22",
+      "url": "https://www.yna.co.kr/amp/view/AKR20260922155900003",
+      "kind": "news"
+    },
+    {
+      "id": "n5",
+      "title": "마스가 협력 · 미 함정 MRO 기대 관련 보도",
+      "publisher": "economist.co.kr",
+      "date": "2026-10-03",
+      "url": "https://economist.co.kr/article/view/ecn202609290039",
+      "kind": "news"
+    },
+    {
+      "id": "n6",
+      "title": "중동 군비 확대 · 방공 수출 이슈 관련 보도",
+      "publisher": "financialpost.co.kr",
+      "date": "2026-09-23",
+      "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=277234",
+      "kind": "news"
+    },
+    {
+      "id": "e6-1",
+      "title": "10/13 사우디 시설 피격 보도",
+      "publisher": "newsis.com",
+      "date": "2026-10-13",
+      "url": "https://www.newsis.com/view/NISX20261013_0003822987",
+      "kind": "news"
+    },
+    {
+      "id": "n7",
+      "title": "호남 반도체단지 추진 · 지역 투자 기대 관련 보도",
+      "publisher": "fnnews.com",
+      "date": "2026-10-12",
+      "url": "https://www.fnnews.com/news/202610121535556110",
+      "kind": "news"
+    },
+    {
+      "id": "e7-1",
+      "title": "10/12 서산 등 관련주 반응",
+      "publisher": "biz.chosun.com",
+      "date": "2026-10-12",
+      "url": "https://biz.chosun.com/stock/stock_general/2026/10/12/3NQTCU55KJBBDFSNIVDJWIQDRI/",
+      "kind": "news"
+    },
+    {
+      "id": "n8",
+      "title": "고속터미널 재개발 · 자산 가치 재부각 관련 보도",
+      "publisher": "mk.co.kr",
+      "date": "2026-10-13",
+      "url": "https://www.mk.co.kr/news/stock/12174150",
+      "kind": "news"
+    },
+    {
+      "id": "e8-1",
+      "title": "지분·자산 연결 배경자료: 2026-06-04",
+      "publisher": "yna.co.kr",
+      "date": null,
+      "url": "https://www.yna.co.kr/view/AKR20260604078600008",
+      "kind": "background"
+    },
+    {
+      "id": "n9",
+      "title": "원화 스테이블코인 · 사업 추진 발표 관련 보도",
+      "publisher": "yna.co.kr",
+      "date": "2026-09-29",
+      "url": "https://www.yna.co.kr/amp/view/AKR20260929060600017",
+      "kind": "news"
+    },
+    {
+      "id": "e9-1",
+      "title": "10/02 헥토이노베이션 사업 준비",
+      "publisher": "hectoinnovation.co.kr",
+      "date": "2026-10-02",
+      "url": "https://www.hectoinnovation.co.kr/pr/news_view?articleSeq=2851&boardSeq=",
+      "kind": "news"
+    },
+    {
+      "id": "e9-2",
+      "title": "09/21 결제·코인 테마 반응",
+      "publisher": "robonews.stockplus.com",
+      "date": "2026-09-21",
+      "url": "https://robonews.stockplus.com/articles/1026701",
+      "kind": "news"
+    },
+    {
+      "id": "n10",
+      "title": "국경절 방한 관광 · 소비 실적 확인 관련 보도",
+      "publisher": "v2.edaily.co.kr",
+      "date": "2026-09-24",
+      "url": "https://v2.www.edaily.co.kr/News/Read?mediaCodeNo=257&newsId=01840086645583400",
+      "kind": "news"
+    },
+    {
+      "id": "e10-1",
+      "title": "09/30 한국관광공사 시장동향",
+      "publisher": "datalab.visitkorea.or.kr",
+      "date": "2026-09-30",
+      "url": "https://datalab.visitkorea.or.kr/site/portal/ex/bbs/View.do?bcIdx=311337&cbIdx=1132",
+      "kind": "news"
+    },
+    {
+      "id": "n11",
+      "title": "미국 전력망 병목 · ESS 확대 기대 관련 보도",
+      "publisher": "fnnews.com",
+      "date": "2026-10-12",
+      "url": "https://www.fnnews.com/news/202610121552178281",
+      "kind": "news"
+    },
+    {
+      "id": "e11-1",
+      "title": "10/12 미국 정책·전력망 병목",
+      "publisher": "fnnews.com",
+      "date": "2026-10-12",
+      "url": "https://www.fnnews.com/news/202610120928419556",
+      "kind": "news"
+    },
+    {
+      "id": "n12",
+      "title": "삼성·SK 증설 기대 · 장비 발주 주목 관련 보도",
+      "publisher": "fnnews.com",
+      "date": "2026-09-18",
+      "url": "https://www.fnnews.com/news/202609180927379614",
+      "kind": "news"
+    },
+    {
+      "id": "e12-1",
+      "title": "10/01 증설·후공정 투자 기대",
+      "publisher": "biz.chosun.com",
+      "date": "2026-10-01",
+      "url": "https://biz.chosun.com/stock/stock_general/2026/10/01/F3OFO24TSBEV3AC5YKMKDD7X2M/?outputType=amp",
+      "kind": "news"
+    },
+    {
+      "id": "e12-2",
+      "title": "10/13 중국 메모리 추격 우려",
+      "publisher": "newsway.co.kr",
+      "date": "2026-10-13",
+      "url": "https://www.newsway.co.kr/news/view?ud=2026101308242961344",
+      "kind": "news"
+    },
+    {
+      "id": "n13",
+      "title": "AI 칩 수요 · 기판·소재 증설 관련 보도",
+      "publisher": "fnnews.com",
+      "date": "2026-09-18",
+      "url": "https://www.fnnews.com/news/202609181339342964",
+      "kind": "news"
+    },
+    {
+      "id": "e13-1",
+      "title": "09/18 삼성전기 투자·실적 기대",
+      "publisher": "fnnews.com",
+      "date": "2026-09-18",
+      "url": "https://www.fnnews.com/news/202609180944082671",
+      "kind": "news"
+    },
+    {
+      "id": "n14",
+      "title": "테슬라 로봇 기대 · 국내 로봇주 확산 관련 보도",
+      "publisher": "hankyung.com",
+      "date": "2026-10-06",
+      "url": "https://www.hankyung.com/article/202610064031i",
+      "kind": "news"
+    },
+    {
+      "id": "e14-1",
+      "title": "09/29 MDS테크 피지컬 AI 사업",
+      "publisher": "inews24.net",
+      "date": "2026-09-29",
+      "url": "https://www.inews24.net/view/2009751",
+      "kind": "news"
+    },
+    {
+      "id": "e14-2",
+      "title": "09/24 옵티머스 3세대 관련 보도",
+      "publisher": "joongangenews.com",
+      "date": "2026-09-24",
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=550509",
+      "kind": "news"
+    },
+    {
+      "id": "n15",
+      "title": "국산 비만 치료제 허가 · 신약 재료 관련 보도",
+      "publisher": "prod.biz.chosun.com",
+      "date": "2026-10-08",
+      "url": "https://prod.biz.chosun.com/stock/stock_general/2026/10/08/NRDULXTCRRCJPEFWF6SIVJUUJ4/",
+      "kind": "news"
+    },
+    {
+      "id": "e15-1",
+      "title": "10/07 한미약품 허가 보도",
+      "publisher": "newspim.com",
+      "date": "2026-10-07",
+      "url": "https://www.newspim.com/news/view/20261007001574",
+      "kind": "news"
+    },
+    {
+      "id": "e15-2",
+      "title": "한미약품 공식 제품 정보",
+      "publisher": "hanmi.co.kr",
+      "date": null,
+      "url": "https://www.hanmi.co.kr/business/product/finder/detail-8044.hm?prodSeq=8044",
+      "kind": "background"
+    },
+    {
+      "id": "e15-3",
+      "title": "10/13 올릭스 개별 임상 악재",
+      "publisher": "newsworks.co.kr",
+      "date": "2026-10-13",
+      "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=856311",
+      "kind": "news"
+    },
+    {
+      "id": "n16",
+      "title": "HLB 미국 FDA 허가 · 그룹주 반응 관련 보도",
+      "publisher": "inews24.net",
+      "date": "2026-09-29",
+      "url": "https://www.inews24.net/view/2009727",
+      "kind": "news"
+    },
+    {
+      "id": "e16-1",
+      "title": "09/29 HLB테라퓨틱스 등 그룹주 반응",
+      "publisher": "biz.chosun.com",
+      "date": "2026-09-29",
+      "url": "https://biz.chosun.com/stock/stock_general/2026/09/29/R4BCQ5WNNFH2PL3W5HIXOQP7LM/?outputType=amp",
+      "kind": "news"
+    },
+    {
+      "id": "n17",
+      "title": "K뷰티 수출 지역 확대 · 실적 검증 관련 보도",
+      "publisher": "fnnews.com",
+      "date": "2026-09-30",
+      "url": "https://www.fnnews.com/news/202609291546223326",
+      "kind": "news"
+    },
+    {
+      "id": "e17-1",
+      "title": "09/30 중남미 진출",
+      "publisher": "news.tf.co.kr",
+      "date": "2026-09-30",
+      "url": "https://news.tf.co.kr/read/economy/2371381.htm",
+      "kind": "news"
+    },
+    {
+      "id": "e17-2",
+      "title": "10/13 에이피알 실적 전망 하향",
+      "publisher": "m.ekn.kr",
+      "date": "2026-10-13",
+      "url": "https://m.ekn.kr/view.php?key=20261013020325440",
+      "kind": "news"
+    },
+    {
+      "id": "n18",
+      "title": "중국 판호·글로벌 신작 · 출시 성과 관련 보도",
+      "publisher": "biz.chosun.com",
+      "date": "2026-10-01",
+      "url": "https://biz.chosun.com/stock/stock_general/2026/10/01/MRW3LDVRRRGTNOLIEU4CRH4KOU/",
+      "kind": "news"
+    },
+    {
+      "id": "e18-1",
+      "title": "10/01 NC 글로벌 출시 반응",
+      "publisher": "biz.chosun.com",
+      "date": "2026-10-01",
+      "url": "https://biz.chosun.com/stock/stock_general/2026/10/01/CUNGWZWBPVESPBKLDXH6NVDKK4/",
+      "kind": "news"
+    },
+    {
+      "id": "n19",
+      "title": "증시 반등 · 거래대금과 증권주 관련 보도",
+      "publisher": "fnnews.com",
+      "date": "2026-09-22",
+      "url": "https://www.fnnews.com/news/202609221609329092",
+      "kind": "news"
+    },
+    {
+      "id": "e19-1",
+      "title": "09/22 증권주 장중 반응",
+      "publisher": "fnnews.com",
+      "date": "2026-09-22",
+      "url": "https://www.fnnews.com/news/202609220943014172",
+      "kind": "news"
+    }
+  ],
+  "themes": [
+    {
+      "id": "theme-01",
+      "title": "사우디 시설 피격 · 유가·가스 공급 불안",
+      "category": "지정학",
+      "news_date": "2026-10-13",
+      "event_date": null,
+      "status": "악재·불확실",
+      "summary": "사우디 에너지 시설 피격과 중동 긴장이 유가·가스 공급 불안을 자극한 재료.",
+      "market_link": "해당 보도와 관련 사업의 연결을 기준으로 아래 종목을 묶었습니다. 종목별 직접 언급 여부와 분석에 따른 연결을 구분했습니다.",
+      "watch": "휴전·시설 복구·유가와 가스 가격. 가격 상승이 모든 업체의 이익 증가를 뜻하지는 않음.",
+      "caution": "유가 변동과 이익 방향은 회사별로 다르며 석유·가스 사업 보유 자체가 수혜 확정을 뜻하지 않습니다.",
+      "source_ids": [
+        "n1",
+        "e1-1"
+      ],
+      "stocks": [
+        {
+          "code": "024060",
+          "name": "흥구석유",
+          "market": "KOSDAQ",
+          "relation": "사업 연관(분석)",
+          "reason": "석유제품 유통으로 유가 급변 때 시장이 연결하는 종목 · 공개 주요 제품/사업: 휘발유등",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "000440",
+          "name": "중앙에너비스",
+          "market": "KOSDAQ",
+          "relation": "사업 연관(분석)",
+          "reason": "석유제품 판매로 유가와 유통마진 변화에 노출 · 공개 주요 제품/사업: 석유류도소매",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "004090",
+          "name": "한국석유공업",
+          "market": "KOSPI",
+          "relation": "사업 연관(분석)",
+          "reason": "아스팔트 등 석유제품 사업으로 유가 뉴스에 연결 · 공개 주요 제품/사업: 석유류제품(솔벤트,부로운아스팔트,방수시트몰터프라스,메타놀,빙초산) 제조,도소매/부동산 임대",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "014530",
+          "name": "극동유화",
+          "market": "KOSPI",
+          "relation": "사업 연관(분석)",
+          "reason": "윤활유·석유제품 사업으로 원유 가격과 제품마진 확인 · 공개 주요 제품/사업: 윤활유,유동파라핀,왁스,방수용시트,아스팔트 제조/수입자동차,부품 도매/가스충전,산업설비 청소",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "003650",
+          "name": "미창석유공업",
+          "market": "KOSPI",
+          "relation": "사업 연관(분석)",
+          "reason": "윤활유 사업으로 기유 원가 및 판매가격 변화 확인 · 공개 주요 제품/사업: 윤활유,고무배합유,전기절연유 제조,판매,수출입",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "010950",
+          "name": "S-Oil",
+          "market": "KOSPI",
+          "relation": "사업 연관(분석)",
+          "reason": "정유사로 원유 조달과 정제마진 영향 확인 · 공개 주요 제품/사업: 석유제품,가스,윤활기유,윤활유,그리스,석유화학제품 제조,도매",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "096770",
+          "name": "SK이노베이션",
+          "market": "KOSPI",
+          "relation": "사업 연관(분석)",
+          "reason": "정유·에너지 사업으로 공급 차질과 정제마진 영향 확인 · 공개 주요 제품/사업: 석유정제,석유화학제품,윤활유제품,아스팔트제품,의약중간체 제조,판매,유전개발,대체에너지사업",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "078930",
+          "name": "GS",
+          "market": "KOSPI",
+          "relation": "사업 연관(분석)",
+          "reason": "GS칼텍스 지분을 통한 정유 사업 연결 · 공개 주요 제품/사업: 지주회사/부동산 임대",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "128820",
+          "name": "대성산업",
+          "market": "KOSPI",
+          "relation": "사업 연관(분석)",
+          "reason": "석유·가스 판매 및 에너지 사업 연결 · 공개 주요 제품/사업: 주요소운영,기계판매 등",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "117580",
+          "name": "대성에너지",
+          "market": "KOSPI",
+          "relation": "사업 연관(분석)",
+          "reason": "도시가스 공급으로 가스 수급 뉴스 관찰 · 공개 주요 제품/사업: 천연가스",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "053050",
+          "name": "지에스이",
+          "market": "KOSDAQ",
+          "relation": "사업 연관(분석)",
+          "reason": "도시가스 공급으로 가스 수급 뉴스 관찰 · 공개 주요 제품/사업: 도시가스",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "018670",
+          "name": "SK가스",
+          "market": "KOSPI",
+          "relation": "사업 연관(분석)",
+          "reason": "LPG 수입·유통으로 국제 LPG 가격과 조달 영향 확인 · 공개 주요 제품/사업: 액화석유가스,가스기기 판매,수입,저장",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "017940",
+          "name": "E1",
+          "market": "KOSPI",
+          "relation": "사업 연관(분석)",
+          "reason": "LPG 수입·유통으로 국제 LPG 가격과 조달 영향 확인 · 공개 주요 제품/사업: LPG(프로판,부탄가스),가스기기판매",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "036460",
+          "name": "한국가스공사",
+          "market": "KOSPI",
+          "relation": "사업 연관(분석)",
+          "reason": "LNG 도입·공급으로 조달 가격과 수급 부담 확인 · 공개 주요 제품/사업: 액화천연가스 공급,제조,도매,개발",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "137950",
+          "name": "제이씨케미칼",
+          "market": "KOSDAQ",
+          "relation": "사업 연관(분석)",
+          "reason": "바이오디젤 등 대체연료 사업으로 원유 대비 경제성 변화 관찰 · 공개 주요 제품/사업: 바이오디젤, 바이오중유 등",
+          "source_ids": [
+            "kind"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "theme-02",
+      "title": "중동 항로 차질 · 해운 운임 재부각",
+      "category": "지정학",
+      "news_date": "2026-10-12",
+      "event_date": null,
+      "status": "진행 중",
+      "summary": "호르무즈 통항 차질과 우회 수송에 따른 운임 상승 기대가 해운주에 반영된 재료.",
+      "market_link": "해당 보도와 관련 사업의 연결을 기준으로 아래 종목을 묶었습니다. 종목별 직접 언급 여부와 분석에 따른 연결을 구분했습니다.",
+      "watch": "탱커·컨테이너·벌크 운임을 구분. 운송 물량 감소와 연료비 부담도 함께 확인.",
+      "caution": "운임 상승과 연료비·우회 운항 비용의 영향을 함께 확인해야 합니다.",
+      "source_ids": [
+        "n2",
+        "e2-1"
+      ],
+      "stocks": [
+        {
+          "code": "465770",
+          "name": "STX그린로지스",
+          "market": "KOSPI",
+          "relation": "뉴스 직접 언급",
+          "reason": "해운·물류 사업; 해당 일자 운임 기대 보도에 등장",
+          "source_ids": [
+            "n2",
+            "e2-1",
+            "kind"
+          ]
+        },
+        {
+          "code": "011200",
+          "name": "HMM",
+          "market": "KOSPI",
+          "relation": "사업 연관(분석)",
+          "reason": "컨테이너 운송; 우회 항로와 선복 수급에 노출 · 공개 주요 제품/사업: 정기,부정기,전용선,콘테이너선,자동차선,LNG선 해운",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "028670",
+          "name": "팬오션",
+          "market": "KOSPI",
+          "relation": "사업 연관(분석)",
+          "reason": "벌크·탱커 운송; 장거리 수송 수요와 운임 관찰 · 공개 주요 제품/사업: 해상화물운송(외항,운수보관)",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "005880",
+          "name": "대한해운",
+          "market": "KOSPI",
+          "relation": "사업 연관(분석)",
+          "reason": "벌크·에너지 운송; 장기운송계약 비중으로 운임 효과 차이 · 공개 주요 제품/사업: 외항화물운송,국제해운대리점",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "003280",
+          "name": "흥아해운",
+          "market": "KOSPI",
+          "relation": "사업 연관(분석)",
+          "reason": "케미컬 탱커 운송; 해상 수급과 운임 뉴스 연결 · 공개 주요 제품/사업: 외항화물운송업(케미컬탱커)",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "044450",
+          "name": "KSS해운",
+          "market": "KOSPI",
+          "relation": "사업 연관(분석)",
+          "reason": "가스·케미컬 운송; 탱커 운임과 계약 조건 확인 · 공개 주요 제품/사업: 특수화물해상운송(액화가스,LPG,암모니아,VCM,석유화학제품 등), 선박대여",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "000700",
+          "name": "유수홀딩스",
+          "market": "KOSPI",
+          "relation": "사업 연관(분석)",
+          "reason": "자회사 물류 사업 경유; 운임 전가와 물동량 영향 관찰 · 공개 주요 제품/사업: 지주사업",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "004140",
+          "name": "동방",
+          "market": "KOSPI",
+          "relation": "사업 연관(분석)",
+          "reason": "항만하역·운송 사업; 공급망 차질의 간접 영향 관찰 · 공개 주요 제품/사업: 육상운송,해상운송,항만화물하역,보관,창고,물류사업",
+          "source_ids": [
+            "kind"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "theme-03",
+      "title": "대미 투자 · 알래스카 LNG 검토",
+      "category": "정책",
+      "news_date": "2026-10-01",
+      "event_date": null,
+      "status": "검토·기대",
+      "summary": "미국의 알래스카 LNG 추진 발표 후 강관주가 반응. 한국 정부는 투자 여부·규모가 미확정이라고 설명.",
+      "market_link": "해당 보도와 관련 사업의 연결을 기준으로 아래 종목을 묶었습니다. 종목별 직접 언급 여부와 분석에 따른 연결을 구분했습니다.",
+      "watch": "투자 확정·자금조달·발주 여부. 아래 기업 전체의 참여나 수주가 확정된 것은 아님.",
+      "caution": "산업부는 투자 여부가 확정되지 않았다고 설명했습니다. 관련 사업 보유는 프로젝트 참여 확정이 아닙니다.",
+      "source_ids": [
+        "n3",
+        "e3-1"
+      ],
+      "stocks": [
+        {
+          "code": "306200",
+          "name": "세아제강",
+          "market": "KOSPI",
+          "relation": "뉴스 직접 언급",
+          "reason": "강관 제조; 관련 보도에서 주가 반응 확인",
+          "source_ids": [
+            "n3",
+            "e3-1",
+            "kind"
+          ]
+        },
+        {
+          "code": "008970",
+          "name": "KBI동양철관",
+          "market": "KOSPI",
+          "relation": "뉴스 직접 언급",
+          "reason": "가스관·대구경 강관; 관련 보도에서 주가 반응 확인",
+          "source_ids": [
+            "n3",
+            "e3-1",
+            "kind"
+          ]
+        },
+        {
+          "code": "092790",
+          "name": "넥스틸",
+          "market": "KOSPI",
+          "relation": "뉴스 직접 언급",
+          "reason": "유정관·송유관; 관련 보도에서 주가 반응 확인",
+          "source_ids": [
+            "n3",
+            "e3-1",
+            "kind"
+          ]
+        },
+        {
+          "code": "003030",
+          "name": "세아제강지주",
+          "market": "KOSPI",
+          "relation": "사업 연관(분석)",
+          "reason": "세아제강 등 강관 사업을 보유한 지주회사 · 공개 주요 제품/사업: 경영컨설팅업",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "071090",
+          "name": "하이스틸",
+          "market": "KOSPI",
+          "relation": "사업 연관(분석)",
+          "reason": "강관 제조; 파이프라인 발주 확대의 비교 관찰 대상 · 공개 주요 제품/사업: 강관 제조,도매",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "005010",
+          "name": "휴스틸",
+          "market": "KOSPI",
+          "relation": "사업 연관(분석)",
+          "reason": "유정용·배관용 강관; 에너지 인프라 발주 연결 · 공개 주요 제품/사업: 강관(배관용,구조용,유정용) 제조,도매",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "023160",
+          "name": "태광",
+          "market": "KOSDAQ",
+          "relation": "사업 연관(분석)",
+          "reason": "배관용 관이음쇠; LNG 플랜트·가스 배관 연결 · 공개 주요 제품/사업: 각종 배관자재, 관이음쇠류 제조 및 판매",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "014620",
+          "name": "성광벤드",
+          "market": "KOSDAQ",
+          "relation": "사업 연관(분석)",
+          "reason": "관이음쇠; LNG 플랜트·가스 배관 연결 · 공개 주요 제품/사업: 관이음쇠",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "105740",
+          "name": "디케이락",
+          "market": "KOSDAQ",
+          "relation": "사업 연관(분석)",
+          "reason": "피팅·밸브; 가스·플랜트 배관 부품 연결 · 공개 주요 제품/사업: 계장용 피팅 및 밸브",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "017960",
+          "name": "한국카본",
+          "market": "KOSPI",
+          "relation": "사업 연관(분석)",
+          "reason": "LNG 보냉재; 가스 수출 확대와 운반선 발주 간접 연결 · 공개 주요 제품/사업: 탄소섬유(카본프리프레그(낚시대,테니스라켓,골프 Shaft,스포츠레저용품)),합성수지,글라스페이퍼,LNG선박용 단열판넬 제조,도매",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "033500",
+          "name": "동성화인텍",
+          "market": "KOSDAQ",
+          "relation": "사업 연관(분석)",
+          "reason": "LNG 보냉재; 가스 수출 확대와 운반선 발주 간접 연결 · 공개 주요 제품/사업: 초저온 보냉재",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "047050",
+          "name": "포스코인터내셔널",
+          "market": "KOSPI",
+          "relation": "사업 연관(분석)",
+          "reason": "LNG·에너지 사업; 프로젝트 협의와 가스 밸류체인 관찰 · 공개 주요 제품/사업: 영업활동의 주요 품목으로 에너지 사업내 천연가스 발전, 태양력, 풍력, 수소 등이 있으며, 트레이딩 사업은 철강 및 철강원료, 이차전지소재, 곡물, 유지, 면방, 바이오플라스틱, 친환경차부품, 인프라 및 산업 플랜트 등이 있음.",
+          "source_ids": [
+            "kind"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "theme-04",
+      "title": "대미 투자 · 미국 원전 사업 기대",
+      "category": "정책",
+      "news_date": "2026-10-01",
+      "event_date": null,
+      "status": "검토·기대",
+      "summary": "미국이 한국의 대미투자 구상에 대형 원전 8기를 포함해 발표하면서 국내 원전 관련주가 반응.",
+      "market_link": "해당 보도와 관련 사업의 연결을 기준으로 아래 종목을 묶었습니다. 종목별 직접 언급 여부와 분석에 따른 연결을 구분했습니다.",
+      "watch": "프로젝트 확정·인허가·금융조달·한국 기업의 실제 계약. 발표 총액과 개별 수주액은 다름.",
+      "caution": "추진 단계의 기대와 실제 수주·투자 집행을 구분해야 합니다.",
+      "source_ids": [
+        "n4",
+        "e4-1"
+      ],
+      "stocks": [
+        {
+          "code": "034020",
+          "name": "두산에너빌리티",
+          "market": "KOSPI",
+          "relation": "뉴스 직접 언급",
+          "reason": "원전 주기기; 관련 발표 후 주가 반응 보도",
+          "source_ids": [
+            "n4",
+            "e4-1",
+            "kind"
+          ]
+        },
+        {
+          "code": "052690",
+          "name": "한전기술",
+          "market": "KOSPI",
+          "relation": "뉴스 직접 언급",
+          "reason": "원전 설계; 관련 발표 후 주가 반응 보도",
+          "source_ids": [
+            "n4",
+            "e4-1",
+            "kind"
+          ]
+        },
+        {
+          "code": "051600",
+          "name": "한전KPS",
+          "market": "KOSPI",
+          "relation": "뉴스 직접 언급",
+          "reason": "발전소 정비; 관련 발표 후 주가 반응 보도",
+          "source_ids": [
+            "n4",
+            "e4-1",
+            "kind"
+          ]
+        },
+        {
+          "code": "000720",
+          "name": "현대건설",
+          "market": "KOSPI",
+          "relation": "뉴스 직접 언급",
+          "reason": "원전 건설; 관련 발표 후 주가 반응 보도",
+          "source_ids": [
+            "n4",
+            "e4-1",
+            "kind"
+          ]
+        },
+        {
+          "code": "032820",
+          "name": "우리기술",
+          "market": "KOSDAQ",
+          "relation": "뉴스 직접 언급",
+          "reason": "원전 계측제어; 관련 발표 후 주가 반응 보도",
+          "source_ids": [
+            "n4",
+            "e4-1",
+            "kind"
+          ]
+        },
+        {
+          "code": "105840",
+          "name": "우진",
+          "market": "KOSPI",
+          "relation": "뉴스 직접 언급",
+          "reason": "원전 계측기; 관련 발표 후 주가 반응 보도",
+          "source_ids": [
+            "n4",
+            "e4-1",
+            "kind"
+          ]
+        },
+        {
+          "code": "028260",
+          "name": "삼성물산",
+          "market": "KOSPI",
+          "relation": "사업 연관(분석)",
+          "reason": "원전 건설·SMR 사업 협력 이력에 따른 사업 연결 · 공개 주요 제품/사업: 도소매, 건설, 남자용 정장 제조업 등",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "375500",
+          "name": "DL이앤씨",
+          "market": "KOSPI",
+          "relation": "사업 연관(분석)",
+          "reason": "원전·SMR 건설 사업 협력 이력에 따른 사업 연결 · 공개 주요 제품/사업: 토목 건설 사업",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "083650",
+          "name": "비에이치아이",
+          "market": "KOSDAQ",
+          "relation": "사업 연관(분석)",
+          "reason": "발전 기자재 사업; 발전소 건설 확대의 공급망 연결 · 공개 주요 제품/사업: 보일러,열교환기등",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "046120",
+          "name": "오르비텍",
+          "market": "KOSDAQ",
+          "relation": "사업 연관(분석)",
+          "reason": "원전 방사선 관리·검사 사업; 운영·정비의 간접 연결 · 공개 주요 제품/사업: 방사선안전관리, 항공기 정밀부품 제조 등",
+          "source_ids": [
+            "kind"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "theme-05",
+      "title": "마스가 협력 · 미 함정 MRO 기대",
+      "category": "정책",
+      "news_date": "2026-10-03",
+      "event_date": null,
+      "status": "검토·기대",
+      "summary": "한미 조선 협력 기대가 이어지는 가운데 미국 법규·인력 부족이 실행 변수로 보도된 재료.",
+      "market_link": "해당 보도와 관련 사업의 연결을 기준으로 아래 종목을 묶었습니다. 종목별 직접 언급 여부와 분석에 따른 연결을 구분했습니다.",
+      "watch": "미 의회·조달 규정, 현지 투자와 MRO 계약. 협력 기대와 확정 수주를 구분.",
+      "caution": "인력과 법·제도 제약, 실제 계약 및 매출 반영 시점을 확인해야 합니다.",
+      "source_ids": [
+        "n5"
+      ],
+      "stocks": [
+        {
+          "code": "329180",
+          "name": "HD현대중공업",
+          "market": "KOSPI",
+          "relation": "사업 연관(분석)",
+          "reason": "함정 건조·미국 조선 협력의 직접 사업 관찰 대상 · 공개 주요 제품/사업: 선박, 해양플랜트 및 엔진기계 등",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "042660",
+          "name": "한화오션",
+          "market": "KOSPI",
+          "relation": "사업 연관(분석)",
+          "reason": "함정·미국 현지 조선 사업 및 MRO 연결 · 공개 주요 제품/사업: 선박 제조",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "009540",
+          "name": "HD한국조선해양",
+          "market": "KOSPI",
+          "relation": "사업 연관(분석)",
+          "reason": "조선 계열사를 통한 미국 조선 협력 연결 · 공개 주요 제품/사업: 선박,해양구조물,엔진,펌프 전동기,중전기,중장비 제조/자동창고,물류시스템",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "010140",
+          "name": "삼성중공업",
+          "market": "KOSPI",
+          "relation": "사업 연관(분석)",
+          "reason": "상선·해양플랜트 건조; 한미 조선 협력 비교 대상 · 공개 주요 제품/사업: 선박(벌크선,원유운반선),철구조물,에너지플랜트 생산,판매/토목건축업",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "097230",
+          "name": "HJ중공업",
+          "market": "KOSPI",
+          "relation": "사업 연관(분석)",
+          "reason": "특수선·군함 건조 및 정비 사업 연결 · 공개 주요 제품/사업: 선박건조,기계플랜트 제조/토목공사,건축공사,조경공사,전기공사,가스공사,준설공사,기계설비공사",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "443060",
+          "name": "HD현대마린솔루션",
+          "market": "KOSPI",
+          "relation": "사업 연관(분석)",
+          "reason": "선박 생애주기 서비스; 유지보수·개조 수요 연결 · 공개 주요 제품/사업: AM(After Market) 솔루션, 친환경 Retrofit, 디지털 제어",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "082740",
+          "name": "한화엔진",
+          "market": "KOSPI",
+          "relation": "사업 연관(분석)",
+          "reason": "선박 엔진; 건조·정비 물량 확대의 공급망 연결 · 공개 주요 제품/사업: 대형선박용엔진,내연발전엔진",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "071970",
+          "name": "HD현대마린엔진",
+          "market": "KOSPI",
+          "relation": "사업 연관(분석)",
+          "reason": "선박 엔진; 건조·정비 물량 확대의 공급망 연결 · 공개 주요 제품/사업: 조선기자재, 기계부품",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "077970",
+          "name": "STX엔진",
+          "market": "KOSPI",
+          "relation": "사업 연관(분석)",
+          "reason": "선박·방산 엔진; 함정 및 정비 수요 연결 · 공개 주요 제품/사업: 엔진,터빈,내연기관 제조,도매",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "064820",
+          "name": "케이프",
+          "market": "KOSDAQ",
+          "relation": "사업 연관(분석)",
+          "reason": "엔진 실린더라이너; 선박 엔진 공급망 연결 · 공개 주요 제품/사업: 선박엔진용실린더라이너",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "014940",
+          "name": "오리엔탈정공",
+          "market": "KOSDAQ",
+          "relation": "사업 연관(분석)",
+          "reason": "선박 크레인·데크하우스; 조선 기자재 공급망 연결 · 공개 주요 제품/사업: 선박용 기계제품(크레인 등)",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "075580",
+          "name": "세진중공업",
+          "market": "KOSPI",
+          "relation": "사업 연관(분석)",
+          "reason": "선박 블록·구조물; 국내 조선소 생산 물량 연결 · 공개 주요 제품/사업: 선박 Deck House, LPG Tank, Upper Deck Unit, 해양플랜트 Living Quarter",
+          "source_ids": [
+            "kind"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "theme-06",
+      "title": "중동 군비 확대 · 방공 수출 이슈",
+      "category": "지정학",
+      "news_date": "2026-09-23",
+      "event_date": null,
+      "status": "진행 중",
+      "summary": "한화에어로스페이스의 중동 법인 신설과 현지 방산 시장 공략이 보도됨. 10월 사우디 피격 뉴스도 이어짐.",
+      "market_link": "해당 보도와 관련 사업의 연결을 기준으로 아래 종목을 묶었습니다. 종목별 직접 언급 여부와 분석에 따른 연결을 구분했습니다.",
+      "watch": "중동 현지화·방공체계·탄약 관련 계약과 납품 일정. 모든 기업이 같은 무기를 공급하는 것은 아님.",
+      "caution": "중동 긴장과 개별 회사의 실제 수출 계약은 별도 확인이 필요합니다.",
+      "source_ids": [
+        "n6",
+        "e6-1"
+      ],
+      "stocks": [
+        {
+          "code": "012450",
+          "name": "한화에어로스페이스",
+          "market": "KOSPI",
+          "relation": "뉴스 직접 언급",
+          "reason": "중동 법인 신설 보도의 당사자; 지상무기·탄약·엔진 사업",
+          "source_ids": [
+            "n6",
+            "e6-1",
+            "kind"
+          ]
+        },
+        {
+          "code": "079550",
+          "name": "LIG디펜스앤에어로스페이스",
+          "market": "KOSPI",
+          "relation": "사업 연관(분석)",
+          "reason": "유도무기·방공체계 사업으로 중동 방공 수요 연결 · 공개 주요 제품/사업: 정밀유도무기 등",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "272210",
+          "name": "한화시스템",
+          "market": "KOSPI",
+          "relation": "사업 연관(분석)",
+          "reason": "방공 레이더·방산전자 사업 연결 · 공개 주요 제품/사업: 정밀기기(육해공군관련전자제어시스템,열영상감시장비,탐지추적장치,전투지휘체계시스템) 제조",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "064350",
+          "name": "현대로템",
+          "market": "KOSPI",
+          "relation": "사업 연관(분석)",
+          "reason": "전차·지상무기 사업; 중동 군비 확대의 비교 대상 · 공개 주요 제품/사업: 철도차량, 특수중기, 산업기계",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "047810",
+          "name": "한국항공우주",
+          "market": "KOSPI",
+          "relation": "사업 연관(분석)",
+          "reason": "군용 항공기 사업; 중동 방산 수출의 비교 대상 · 공개 주요 제품/사업: 정부방산 및 완제기 수출(T-50계열, KUH계열, KT-1계열 등), 기체부품",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "103140",
+          "name": "풍산",
+          "market": "KOSPI",
+          "relation": "사업 연관(분석)",
+          "reason": "탄약 사업으로 재고 보충·방산 수출 연결 · 공개 주요 제품/사업: ",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "005870",
+          "name": "휴니드",
+          "market": "KOSPI",
+          "relation": "사업 연관(분석)",
+          "reason": "전술통신·항공전자 사업으로 방산 공급망 연결 · 공개 주요 제품/사업: 무선통신기기,군납용무전기,위성방송수신기 제조",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "010820",
+          "name": "퍼스텍",
+          "market": "KOSPI",
+          "relation": "사업 연관(분석)",
+          "reason": "유도무기·항공·방산 부품 공급망 연결 · 공개 주요 제품/사업: 방위산업제품,프린터,불소화합물,자동차용 매트 제조/얼굴인식시스템 개발",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "065450",
+          "name": "빅텍",
+          "market": "KOSDAQ",
+          "relation": "사업 연관(분석)",
+          "reason": "전자전·전원공급장치 등 방산 부품 연결 · 공개 주요 제품/사업: 전자전시스템 장치류",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "214430",
+          "name": "아이쓰리시스템",
+          "market": "KOSDAQ",
+          "relation": "사업 연관(분석)",
+          "reason": "적외선 영상센서; 감시·탐지 장비 공급망 연결 · 공개 주요 제품/사업: 적외선 영상센서, 엑스레이 영상센서",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "064960",
+          "name": "SNT모티브",
+          "market": "KOSPI",
+          "relation": "사업 연관(분석)",
+          "reason": "소구경 화기 등 방산 사업 연결 · 공개 주요 제품/사업: 자동차부품(서스펜션모듈,전장품,속옵서버,에어백,트로틀바디,너클),방산품(총포) 제조,도매",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "003570",
+          "name": "SNT다이내믹스",
+          "market": "KOSPI",
+          "relation": "사업 연관(분석)",
+          "reason": "방산용 변속기·화력 장비 등 지상무기 공급망 연결 · 공개 주요 제품/사업: 자동차부품(동력전달장치 등),공작기계(CNC선반 등),사출성형기 제조",
+          "source_ids": [
+            "kind"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "theme-07",
+      "title": "호남 반도체단지 추진 · 지역 투자 기대",
+      "category": "정책",
+      "news_date": "2026-10-12",
+      "event_date": null,
+      "status": "검토·기대",
+      "summary": "최태원 회장의 광주 부지 방문·신속 추진 발언 뒤 호남 반도체 클러스터 관련주가 급등한 재료.",
+      "market_link": "해당 보도와 관련 사업의 연결을 기준으로 아래 종목을 묶었습니다. 종목별 직접 언급 여부와 분석에 따른 연결을 구분했습니다.",
+      "watch": "부지·인허가·공사 계약. 지역 기반만으로 묶인 종목도 있어 반도체 매출이나 수주 확정으로 해석하지 않음.",
+      "caution": "단지 추진과 관련주 반응을 구분하며 부지·투자·입주 확정을 확인해야 합니다.",
+      "source_ids": [
+        "n7",
+        "e7-1"
+      ],
+      "stocks": [
+        {
+          "code": "001210",
+          "name": "금호전기",
+          "market": "KOSPI",
+          "relation": "뉴스 직접 언급",
+          "reason": "광주 기반 기업으로 해당 뉴스의 시장 테마에 편입; 반도체 수주 확인은 별도",
+          "source_ids": [
+            "n7",
+            "e7-1",
+            "kind"
+          ]
+        },
+        {
+          "code": "002990",
+          "name": "금호건설",
+          "market": "KOSPI",
+          "relation": "뉴스 직접 언급",
+          "reason": "지역 건설사로 클러스터 조성 기대에 반응 보도",
+          "source_ids": [
+            "n7",
+            "e7-1",
+            "kind"
+          ]
+        },
+        {
+          "code": "054930",
+          "name": "유신",
+          "market": "KOSDAQ",
+          "relation": "뉴스 직접 언급",
+          "reason": "설계·엔지니어링 사업; 해당 클러스터 테마 반응 보도",
+          "source_ids": [
+            "n7",
+            "e7-1",
+            "kind"
+          ]
+        },
+        {
+          "code": "091590",
+          "name": "남화토건",
+          "market": "KOSDAQ",
+          "relation": "뉴스 직접 언급",
+          "reason": "광주·전남 건설 기반으로 조성 기대에 반응 보도",
+          "source_ids": [
+            "n7",
+            "e7-1",
+            "kind"
+          ]
+        },
+        {
+          "code": "079650",
+          "name": "서산",
+          "market": "KOSDAQ",
+          "relation": "뉴스 직접 언급",
+          "reason": "광주 레미콘 사업으로 조성 기대에 반응 보도",
+          "source_ids": [
+            "n7",
+            "e7-1",
+            "kind"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "theme-08",
+      "title": "고속터미널 재개발 · 자산 가치 재부각",
+      "category": "개발·자산",
+      "news_date": "2026-10-13",
+      "event_date": null,
+      "status": "검토·기대",
+      "summary": "서울고속버스터미널 재개발 기대와 연결된 종목군의 상승이 보도된 재료.",
+      "market_link": "해당 보도와 관련 사업의 연결을 기준으로 아래 종목을 묶었습니다. 종목별 직접 언급 여부와 분석에 따른 연결을 구분했습니다.",
+      "watch": "개발 인허가·사업비·보유 지분 가치. 운수업 전반이 같은 재료에 해당하는 것은 아님.",
+      "caution": "사업 진행과 지분·자산 관계에 따른 시장 기대입니다. 개발 이익의 실현 시점은 별도입니다.",
+      "source_ids": [
+        "n8",
+        "e8-1"
+      ],
+      "stocks": [
+        {
+          "code": "000650",
+          "name": "천일고속",
+          "market": "KOSPI",
+          "relation": "뉴스 직접 언급",
+          "reason": "서울고속버스터미널 지분 관련 재개발 기대 종목",
+          "source_ids": [
+            "n8",
+            "e8-1",
+            "kind"
+          ]
+        },
+        {
+          "code": "084670",
+          "name": "동양고속",
+          "market": "KOSPI",
+          "relation": "사업 연관(분석)",
+          "reason": "서울고속버스터미널 지분 관련 재개발 기대 종목 · 공개 주요 제품/사업: 고속버스 운송/부동산 임대",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "004170",
+          "name": "신세계",
+          "market": "KOSPI",
+          "relation": "사업 연관(분석)",
+          "reason": "신세계센트럴시티 등 그룹의 터미널 자산·개발 연결 · 공개 주요 제품/사업: 백화점,할인점(E마트)",
+          "source_ids": [
+            "kind"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "theme-09",
+      "title": "원화 스테이블코인 · 사업 추진 발표",
+      "category": "정책·제도",
+      "news_date": "2026-09-29",
+      "event_date": null,
+      "status": "검토·기대",
+      "summary": "카카오그룹이 원화 스테이블코인 활용 구상을 발표하고, 결제 업체들의 사업 준비가 이어진 재료.",
+      "market_link": "해당 보도와 관련 사업의 연결을 기준으로 아래 종목을 묶었습니다. 종목별 직접 언급 여부와 분석에 따른 연결을 구분했습니다.",
+      "watch": "법안·발행 주체·컨소시엄·실제 서비스. 구상 발표는 발행 허가 또는 참여 확정과 다름.",
+      "caution": "사업 준비 및 로드맵을 발행 인가 또는 제도 확정으로 해석하지 않습니다.",
+      "source_ids": [
+        "n9",
+        "e9-1",
+        "e9-2"
+      ],
+      "stocks": [
+        {
+          "code": "035720",
+          "name": "카카오",
+          "market": "KOSPI",
+          "relation": "뉴스 직접 언급",
+          "reason": "그룹 차원의 원화 스테이블코인 사업 구상",
+          "source_ids": [
+            "n9",
+            "e9-1",
+            "e9-2",
+            "kind"
+          ]
+        },
+        {
+          "code": "323410",
+          "name": "카카오뱅크",
+          "market": "KOSPI",
+          "relation": "뉴스 직접 언급",
+          "reason": "그룹 금융 협의·은행 인프라 관련 사업 주체",
+          "source_ids": [
+            "n9",
+            "e9-1",
+            "e9-2",
+            "kind"
+          ]
+        },
+        {
+          "code": "377300",
+          "name": "카카오페이",
+          "market": "KOSPI",
+          "relation": "뉴스 직접 언급",
+          "reason": "결제·송금 인프라와 그룹의 원화 코인 활용 구상 연결",
+          "source_ids": [
+            "n9",
+            "e9-1",
+            "e9-2",
+            "kind"
+          ]
+        },
+        {
+          "code": "035420",
+          "name": "NAVER",
+          "market": "KOSPI",
+          "relation": "사업 연관(분석)",
+          "reason": "간편결제·디지털 금융 플랫폼의 비교 관찰 대상 · 공개 주요 제품/사업: 포털 서비스 및 온라인 광고",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "234340",
+          "name": "헥토파이낸셜",
+          "market": "KOSDAQ",
+          "relation": "뉴스 직접 언급",
+          "reason": "정산·전자금융 사업과 스테이블코인 결제 사업 준비",
+          "source_ids": [
+            "n9",
+            "e9-1",
+            "e9-2",
+            "kind"
+          ]
+        },
+        {
+          "code": "214180",
+          "name": "헥토이노베이션",
+          "market": "KOSDAQ",
+          "relation": "뉴스 직접 언급",
+          "reason": "디지털 지갑·인증 등 계열 사업과 스테이블코인 인프라 준비",
+          "source_ids": [
+            "n9",
+            "e9-1",
+            "e9-2",
+            "kind"
+          ]
+        },
+        {
+          "code": "064260",
+          "name": "다날",
+          "market": "KOSDAQ",
+          "relation": "사업 연관(분석)",
+          "reason": "결제·디지털자산 사업으로 관련 뉴스의 관찰 대상 · 공개 주요 제품/사업: 모바일콘텐츠 및 유무선전화결제",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "060250",
+          "name": "NHN KCP",
+          "market": "KOSDAQ",
+          "relation": "사업 연관(분석)",
+          "reason": "PG·결제 인프라 사업으로 관련 뉴스의 관찰 대상 · 공개 주요 제품/사업: 전자결제서비스업",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "035600",
+          "name": "KG이니시스",
+          "market": "KOSDAQ",
+          "relation": "사업 연관(분석)",
+          "reason": "PG·전자결제 인프라 사업으로 관련 뉴스의 관찰 대상 · 공개 주요 제품/사업: 전자지불서비스",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "094480",
+          "name": "갤럭시아머니트리",
+          "market": "KOSDAQ",
+          "relation": "사업 연관(분석)",
+          "reason": "전자결제·디지털자산 사업 연결 · 공개 주요 제품/사업: 전자결제",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "163730",
+          "name": "핑거",
+          "market": "KOSDAQ",
+          "relation": "사업 연관(분석)",
+          "reason": "금융 IT·디지털자산 인프라 사업 연결 · 공개 주요 제품/사업: 스마트 금융 플랫폼, 핀테크 금융 솔루션",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "294570",
+          "name": "쿠콘",
+          "market": "KOSDAQ",
+          "relation": "사업 연관(분석)",
+          "reason": "금융 데이터·결제 인프라 연결 · 공개 주요 제품/사업: 페이먼트서비스(65.2%), 데이터서비스(29.1%) 등",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "462860",
+          "name": "더즌",
+          "market": "KOSDAQ",
+          "relation": "사업 연관(분석)",
+          "reason": "디지털뱅킹·금융 솔루션 연결 · 공개 주요 제품/사업: 디지털뱅킹 솔루션(B2B 금융 서비스)",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "124500",
+          "name": "아이티센글로벌",
+          "market": "KOSDAQ",
+          "relation": "사업 연관(분석)",
+          "reason": "계열사의 디지털자산·금융 인프라 사업 경유 · 공개 주요 제품/사업: 시스템통합 및 IT서비스",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "052400",
+          "name": "코나아이",
+          "market": "KOSDAQ",
+          "relation": "사업 연관(분석)",
+          "reason": "선불결제·지역화폐 인프라 연결; 코인 발행 확정은 별도 · 공개 주요 제품/사업: 전자화폐, 단말기, 수집/정산시스템",
+          "source_ids": [
+            "kind"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "theme-10",
+      "title": "국경절 방한 관광 · 소비 실적 확인",
+      "category": "소비·수출",
+      "news_date": "2026-09-24",
+      "event_date": null,
+      "status": "후속 확인",
+      "summary": "중국 중추절·국경절을 앞두고 방한 예약 증가와 소비 방식 변화가 보도된 재료.",
+      "market_link": "해당 보도와 관련 사업의 연결을 기준으로 아래 종목을 묶었습니다. 종목별 직접 언급 여부와 분석에 따른 연결을 구분했습니다.",
+      "watch": "연휴는 종료. 이후 입국 통계·호텔 객실단가·카지노 매출·항공 탑승률로 연결 확인.",
+      "caution": "국경절 행사는 이미 지났습니다. 관광객·매출 등 후속 지표와 기대 선반영 여부가 핵심입니다.",
+      "source_ids": [
+        "n10",
+        "e10-1"
+      ],
+      "stocks": [
+        {
+          "code": "008770",
+          "name": "호텔신라",
+          "market": "KOSPI",
+          "relation": "사업 연관(분석)",
+          "reason": "면세점·호텔 사업으로 방한객 지출 연결 · 공개 주요 제품/사업: 면세판매,관광숙박,외식사업,예식업",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "034230",
+          "name": "파라다이스",
+          "market": "KOSPI",
+          "relation": "사업 연관(분석)",
+          "reason": "외국인 전용 카지노·호텔 사업 · 공개 주요 제품/사업: 카지노, 호텔, 복합리조트",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "114090",
+          "name": "GKL",
+          "market": "KOSPI",
+          "relation": "사업 연관(분석)",
+          "reason": "외국인 전용 카지노 사업 · 공개 주요 제품/사업: 카지노",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "032350",
+          "name": "롯데관광개발",
+          "market": "KOSPI",
+          "relation": "사업 연관(분석)",
+          "reason": "제주 복합리조트·카지노 사업 · 공개 주요 제품/사업: 국내외여행알선,관광개발,전세운수,항공권매매대행",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "089590",
+          "name": "제주항공",
+          "market": "KOSPI",
+          "relation": "사업 연관(분석)",
+          "reason": "항공 여객 운송; 중국·일본 등 노선 수요 연결 · 공개 주요 제품/사업: 여객운송서비스, 화물운송서비스",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "272450",
+          "name": "진에어",
+          "market": "KOSPI",
+          "relation": "사업 연관(분석)",
+          "reason": "항공 여객 운송; 방한객 노선 수요 연결 · 공개 주요 제품/사업: 여객, 화물 등 항공운송",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "091810",
+          "name": "트리니티항공",
+          "market": "KOSPI",
+          "relation": "사업 연관(분석)",
+          "reason": "항공 여객 운송; 방한객 노선 수요 연결 · 공개 주요 제품/사업: 저가 항공운송",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "003490",
+          "name": "대한항공",
+          "market": "KOSPI",
+          "relation": "사업 연관(분석)",
+          "reason": "국제 항공 운송; 방한객·환승 수요 연결 · 공개 주요 제품/사업: 여객운송,화물운송,항공기 제조,판매,정비수리/기내식 제조판매,면세품 판매",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "007070",
+          "name": "GS리테일",
+          "market": "KOSPI",
+          "relation": "사업 연관(분석)",
+          "reason": "편의점 등 외국인 관광객의 생활형 소비 연결 · 공개 주요 제품/사업: 체인화 편의점,슈퍼마켓,마트,전자상거래/부동산(빌딩) 임대",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "282330",
+          "name": "BGF리테일",
+          "market": "KOSPI",
+          "relation": "사업 연관(분석)",
+          "reason": "편의점 사업으로 관광지·도심 소비 연결 · 공개 주요 제품/사업: 체인화 편의점",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "031430",
+          "name": "신세계인터내셔날",
+          "market": "KOSPI",
+          "relation": "사업 연관(분석)",
+          "reason": "뷰티·패션 유통으로 외국인 쇼핑 소비 연결 · 공개 주요 제품/사업: 섬유, 의복, 신발 및 가죽제품 소매",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "069960",
+          "name": "현대백화점",
+          "market": "KOSPI",
+          "relation": "사업 연관(분석)",
+          "reason": "백화점·면세점 사업으로 외국인 쇼핑 소비 연결 · 공개 주요 제품/사업: 백화점",
+          "source_ids": [
+            "kind"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "theme-11",
+      "title": "미국 전력망 병목 · ESS 확대 기대",
+      "category": "정책·수요",
+      "news_date": "2026-10-12",
+      "event_date": null,
+      "status": "진행 중",
+      "summary": "미국 전력망 연결 병목과 정책 변화가 ESS 수요를 끌어올린다는 분석, LG에너지솔루션 실적 재료가 부각.",
+      "market_link": "해당 보도와 관련 사업의 연결을 기준으로 아래 종목을 묶었습니다. 종목별 직접 언급 여부와 분석에 따른 연결을 구분했습니다.",
+      "watch": "ESS 수주·기존 공장 전환·계통 연결 정책. 10월 12일에는 장중 상승 후 시장 하락에 반락한 점도 반영.",
+      "caution": "10월 12일 일부 종목의 장중 상승이 종가까지 유지된 것은 아닙니다. 수주와 원가·실적을 함께 확인합니다.",
+      "source_ids": [
+        "n11",
+        "e11-1"
+      ],
+      "stocks": [
+        {
+          "code": "373220",
+          "name": "LG에너지솔루션",
+          "market": "KOSPI",
+          "relation": "뉴스 직접 언급",
+          "reason": "ESS 배터리와 3분기 실적 발표의 직접 관찰 대상",
+          "source_ids": [
+            "n11",
+            "e11-1",
+            "kind"
+          ]
+        },
+        {
+          "code": "006400",
+          "name": "삼성SDI",
+          "market": "KOSPI",
+          "relation": "뉴스 직접 언급",
+          "reason": "ESS 배터리 공급; 관련 일자 주가 반응 보도",
+          "source_ids": [
+            "n11",
+            "e11-1",
+            "kind"
+          ]
+        },
+        {
+          "code": "051910",
+          "name": "LG화학",
+          "market": "KOSPI",
+          "relation": "사업 연관(분석)",
+          "reason": "배터리 자회사 지분 및 소재 사업의 간접 연결 · 공개 주요 제품/사업: 유화/기능/합성수지,재생섬유소,산업재,리튬이온전지,평광판,PVC 제조,도매",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "178320",
+          "name": "서진시스템",
+          "market": "KOSDAQ",
+          "relation": "사업 연관(분석)",
+          "reason": "ESS 시스템·외함 제조 사업 연결 · 공개 주요 제품/사업: 통신장비부품,휴대폰부품(메탈케이스 등)",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "107640",
+          "name": "한중엔시에스",
+          "market": "KOSDAQ",
+          "relation": "사업 연관(분석)",
+          "reason": "ESS 냉각장치 사업 연결 · 공개 주요 제품/사업: 수냉식 냉각시스템 ESS Parts, 공랭식 ESS Module Parts, EV Module 및 내연기관 Parts",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "416180",
+          "name": "신성에스티",
+          "market": "KOSDAQ",
+          "relation": "사업 연관(분석)",
+          "reason": "ESS 부품·배터리 부품 공급망 연결 · 공개 주요 제품/사업: 전기차/2차전지 Busbar 및 배터리모듈 보호 부품 등",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "010120",
+          "name": "LS ELECTRIC",
+          "market": "KOSPI",
+          "relation": "사업 연관(분석)",
+          "reason": "전력기기·전력시스템·ESS 사업 연결 · 공개 주요 제품/사업: 고압기기,저압기기,변압기,배전반,PLC,인버터,빌딩설비,공조기,건축배관,자동화기기 제조,동가공",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "273640",
+          "name": "와이엠텍",
+          "market": "KOSDAQ",
+          "relation": "사업 연관(분석)",
+          "reason": "ESS용 전력 릴레이 사업 연결 · 공개 주요 제품/사업: 계전기(EV Relay)",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "054210",
+          "name": "이랜텍",
+          "market": "KOSDAQ",
+          "relation": "사업 연관(분석)",
+          "reason": "배터리팩·ESS 사업 연결 · 공개 주요 제품/사업: Battery Pack",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "125210",
+          "name": "아모그린텍",
+          "market": "KOSDAQ",
+          "relation": "사업 연관(분석)",
+          "reason": "전력·배터리 관련 부품 공급망 연결 · 공개 주요 제품/사업: 비정질 및 나노결정립을 이용한 자성부품 및 전류센서",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "298040",
+          "name": "효성중공업",
+          "market": "KOSPI",
+          "relation": "사업 연관(분석)",
+          "reason": "변압기 등 전력망 설비; 계통 병목 해소 투자 연결 · 공개 주요 제품/사업: -",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "267260",
+          "name": "HD현대일렉트릭",
+          "market": "KOSPI",
+          "relation": "사업 연관(분석)",
+          "reason": "변압기 등 전력기기; 미국 전력망 증설 연결 · 공개 주요 제품/사업: 변압기, 고압차단기, 회전기, 배전반 등",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "103590",
+          "name": "일진전기",
+          "market": "KOSPI",
+          "relation": "사업 연관(분석)",
+          "reason": "변압기·전선; 전력망 증설 연결 · 공개 주요 제품/사업: ",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "001440",
+          "name": "대한전선",
+          "market": "KOSPI",
+          "relation": "사업 연관(분석)",
+          "reason": "전력케이블; 전력망 투자 연결 · 공개 주요 제품/사업: 전력선,통신케이블,적산계기,스텐레스압연제품,광케이블,초고압선,알루미늄 제조,도매/전기공사",
+          "source_ids": [
+            "kind"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "theme-12",
+      "title": "삼성·SK 증설 기대 · 장비 발주 주목",
+      "category": "수주·투자",
+      "news_date": "2026-09-18",
+      "event_date": null,
+      "status": "검토·기대",
+      "summary": "메모리 기업의 증설 전망과 미국 반도체주 반등이 국내 장비주로 확산. 10월 13일에는 중국 추격 우려가 반대 재료로 부각.",
+      "market_link": "해당 보도와 관련 사업의 연결을 기준으로 아래 종목을 묶었습니다. 종목별 직접 언급 여부와 분석에 따른 연결을 구분했습니다.",
+      "watch": "메모리 실적·설비투자·장비 발주와 중국 공급 확대. 호재와 악재 모두 확인하는 그룹.",
+      "caution": "투자 기대를 장비사 전반의 확정 수주로 보지 않습니다. 중국 메모리 경쟁 심화도 반대 재료입니다.",
+      "source_ids": [
+        "n12",
+        "e12-1",
+        "e12-2"
+      ],
+      "stocks": [
+        {
+          "code": "005930",
+          "name": "삼성전자",
+          "market": "KOSPI",
+          "relation": "뉴스 직접 언급",
+          "reason": "메모리 생산·설비투자 주체",
+          "source_ids": [
+            "n12",
+            "e12-1",
+            "e12-2",
+            "kind"
+          ]
+        },
+        {
+          "code": "000660",
+          "name": "SK하이닉스",
+          "market": "KOSPI",
+          "relation": "뉴스 직접 언급",
+          "reason": "메모리 생산·설비투자 주체",
+          "source_ids": [
+            "n12",
+            "e12-1",
+            "e12-2",
+            "kind"
+          ]
+        },
+        {
+          "code": "402340",
+          "name": "SK스퀘어",
+          "market": "KOSPI",
+          "relation": "사업 연관(분석)",
+          "reason": "SK하이닉스 지분 보유에 따른 간접 연결 · 공개 주요 제품/사업: 지주회사",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "036930",
+          "name": "주성엔지니어링",
+          "market": "KOSDAQ",
+          "relation": "뉴스 직접 언급",
+          "reason": "반도체 증착 장비; 증설 발주 연결",
+          "source_ids": [
+            "n12",
+            "e12-1",
+            "e12-2",
+            "kind"
+          ]
+        },
+        {
+          "code": "240810",
+          "name": "원익IPS",
+          "market": "KOSDAQ",
+          "relation": "사업 연관(분석)",
+          "reason": "반도체 전공정 장비; 증설 발주 연결 · 공개 주요 제품/사업: 반도체 제조용 기계",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "084370",
+          "name": "유진테크",
+          "market": "KOSDAQ",
+          "relation": "사업 연관(분석)",
+          "reason": "반도체 증착 장비; 증설 발주 연결 · 공개 주요 제품/사업: 실리콘질화막증착용LP-CVD",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "042700",
+          "name": "한미반도체",
+          "market": "KOSPI",
+          "relation": "사업 연관(분석)",
+          "reason": "반도체 후공정·본딩 장비 발주 연결 · 공개 주요 제품/사업: 반도체 후공정장비,반도체금형 제조/부동산 매매,임대",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "039030",
+          "name": "이오테크닉스",
+          "market": "KOSDAQ",
+          "relation": "사업 연관(분석)",
+          "reason": "반도체 레이저 가공 장비 발주 연결 · 공개 주요 제품/사업: 레이저 마커 및 레이저 응용기기",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "031980",
+          "name": "피에스케이홀딩스",
+          "market": "KOSDAQ",
+          "relation": "사업 연관(분석)",
+          "reason": "반도체 후공정 장비 발주 연결 · 공개 주요 제품/사업: Descum, Reflow",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "089030",
+          "name": "테크윙",
+          "market": "KOSDAQ",
+          "relation": "사업 연관(분석)",
+          "reason": "반도체 테스트 장비 발주 연결 · 공개 주요 제품/사업: 반도체테스트핸들러,C.O.K(Change Over Kit)",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "039440",
+          "name": "에스티아이",
+          "market": "KOSDAQ",
+          "relation": "사업 연관(분석)",
+          "reason": "반도체 케미컬 공급·후공정 장비 연결 · 공개 주요 제품/사업: Chemical 중앙공급시스템(C.C.S.S), 세정·식각시스템",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "095610",
+          "name": "테스",
+          "market": "KOSDAQ",
+          "relation": "사업 연관(분석)",
+          "reason": "반도체 전공정 장비 발주 연결 · 공개 주요 제품/사업: 반도체장비(화학증착장비)",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "083310",
+          "name": "엘오티베큠",
+          "market": "KOSDAQ",
+          "relation": "사업 연관(분석)",
+          "reason": "반도체 진공펌프 공급망 연결 · 공개 주요 제품/사업: 반도체제조용진공펌프",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "348210",
+          "name": "넥스틴",
+          "market": "KOSDAQ",
+          "relation": "사업 연관(분석)",
+          "reason": "반도체 검사 장비 발주 연결 · 공개 주요 제품/사업: 반도체 전공정용 패턴결함 검사장비(AEGIS 등)",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "131970",
+          "name": "두산테스나",
+          "market": "KOSDAQ",
+          "relation": "사업 연관(분석)",
+          "reason": "반도체 테스트 외주 수요 연결; 장비 제조사는 아님 · 공개 주요 제품/사업: 반도체 테스트",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "322310",
+          "name": "오로스테크놀로지",
+          "market": "KOSDAQ",
+          "relation": "사업 연관(분석)",
+          "reason": "반도체 계측 장비 발주 연결 · 공개 주요 제품/사업: 반도체 Overlay 계측 장비",
+          "source_ids": [
+            "kind"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "theme-13",
+      "title": "AI 칩 수요 · 기판·소재 증설",
+      "category": "수주·투자",
+      "news_date": "2026-09-18",
+      "event_date": null,
+      "status": "진행 중",
+      "summary": "두산의 AI 관련 소재 생산라인 대규모 증설과 삼성전기 실적 기대가 부각된 재료.",
+      "market_link": "해당 보도와 관련 사업의 연결을 기준으로 아래 종목을 묶었습니다. 종목별 직접 언급 여부와 분석에 따른 연결을 구분했습니다.",
+      "watch": "고다층기판·동박적층판·패키지기판 주문과 신규 공장 가동. 두산의 증설을 모든 기업 수주로 보지 않음.",
+      "caution": "회사별 증설 발표와 실제 AI 매출 비중·고객 구성을 구분해야 합니다.",
+      "source_ids": [
+        "n13",
+        "e13-1"
+      ],
+      "stocks": [
+        {
+          "code": "000150",
+          "name": "두산",
+          "market": "KOSPI",
+          "relation": "뉴스 직접 언급",
+          "reason": "AI용 동박적층판 생산라인 증설 발표 당사자",
+          "source_ids": [
+            "n13",
+            "e13-1",
+            "kind"
+          ]
+        },
+        {
+          "code": "009150",
+          "name": "삼성전기",
+          "market": "KOSPI",
+          "relation": "뉴스 직접 언급",
+          "reason": "AI 서버용 부품·기판; 같은 날 투자·실적 기대 보도",
+          "source_ids": [
+            "n13",
+            "e13-1",
+            "kind"
+          ]
+        },
+        {
+          "code": "353200",
+          "name": "대덕전자",
+          "market": "KOSPI",
+          "relation": "사업 연관(분석)",
+          "reason": "반도체 패키지기판·PCB 공급망 연결 · 공개 주요 제품/사업: PCB(Printed Circuit Board, 인쇄회로기판)의 제조 및 판매",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "007660",
+          "name": "이수페타시스",
+          "market": "KOSPI",
+          "relation": "사업 연관(분석)",
+          "reason": "AI·통신용 고다층기판 공급망 연결 · 공개 주요 제품/사업: P.C.B(인쇄회로기판),M.L.B 제조",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "007810",
+          "name": "코리아써키트",
+          "market": "KOSPI",
+          "relation": "사업 연관(분석)",
+          "reason": "반도체 패키지기판·PCB 공급망 연결 · 공개 주요 제품/사업: 인쇄회로기판,Module 제조/부동산(건물) 임대",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "356860",
+          "name": "티엘비",
+          "market": "KOSDAQ",
+          "relation": "사업 연관(분석)",
+          "reason": "메모리 모듈용 PCB 공급망 연결 · 공개 주요 제품/사업: SSD Module / DRAM Module PCB",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "085910",
+          "name": "네오티스",
+          "market": "KOSDAQ",
+          "relation": "사업 연관(분석)",
+          "reason": "PCB 가공용 마이크로드릴 공급망 연결 · 공개 주요 제품/사업: 마이크로비트,샤프트",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "251370",
+          "name": "와이엠티",
+          "market": "KOSDAQ",
+          "relation": "사업 연관(분석)",
+          "reason": "PCB 등 전자부품 공정용 화학소재 연결 · 공개 주요 제품/사업: PCB, 반도체 및 디스플레이 제조용 화학소재 등",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "222800",
+          "name": "심텍",
+          "market": "KOSDAQ",
+          "relation": "사업 연관(분석)",
+          "reason": "반도체용 패키지·모듈 기판 공급망 연결 · 공개 주요 제품/사업: 반도체용 인쇄회로기판",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "008060",
+          "name": "대덕",
+          "market": "KOSPI",
+          "relation": "사업 연관(분석)",
+          "reason": "대덕전자 지분을 통한 기판 사업 연결 · 공개 주요 제품/사업: 산업용 인쇄회로기판,다층 인쇄회로기판,빌드업기판,반도체패키지기판,메모리모듈기판 제조",
+          "source_ids": [
+            "kind"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "theme-14",
+      "title": "테슬라 로봇 기대 · 국내 로봇주 확산",
+      "category": "기업 이벤트",
+      "news_date": "2026-10-06",
+      "event_date": null,
+      "status": "검토·기대",
+      "summary": "월가가 테슬라의 로봇 사업을 성장축으로 평가한 보도와 국내 피지컬 AI 사업 확대가 부각된 재료.",
+      "market_link": "해당 보도와 관련 사업의 연결을 기준으로 아래 종목을 묶었습니다. 종목별 직접 언급 여부와 분석에 따른 연결을 구분했습니다.",
+      "watch": "옵티머스 공개·양산 계획과 국내 기업의 실제 로봇 매출. 아래 기업이 모두 테슬라 공급사라는 뜻은 아님.",
+      "caution": "국내 로봇·부품 사업 관련성으로 묶은 종목이며 모두 테슬라 공급사라는 뜻은 아닙니다.",
+      "source_ids": [
+        "n14",
+        "e14-1",
+        "e14-2"
+      ],
+      "stocks": [
+        {
+          "code": "277810",
+          "name": "레인보우로보틱스",
+          "market": "KOSDAQ",
+          "relation": "사업 연관(분석)",
+          "reason": "휴머노이드·협동로봇 사업으로 로봇 투자 심리 연결 · 공개 주요 제품/사업: 협동로봇, 모바일휴머노이드, 4족보행로봇, 천문마운트시스템 등",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "108490",
+          "name": "로보티즈",
+          "market": "KOSDAQ",
+          "relation": "사업 연관(분석)",
+          "reason": "로봇 액추에이터·구동 모듈 사업 · 공개 주요 제품/사업: 솔루션(로봇 엑츄에이터 모듈과 구동 소프트웨어), 에듀테인먼트 로봇, 로봇 플랫폼",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "348340",
+          "name": "뉴로메카",
+          "market": "KOSDAQ",
+          "relation": "사업 연관(분석)",
+          "reason": "협동로봇·자동화 솔루션 사업 · 공개 주요 제품/사업: 협동로봇, 협동로봇 자동화 플랫폼, 로봇제어기 등",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "454910",
+          "name": "두산로보틱스",
+          "market": "KOSPI",
+          "relation": "사업 연관(분석)",
+          "reason": "협동로봇·로봇 자동화 사업 · 공개 주요 제품/사업: 협동로봇",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "058610",
+          "name": "에스피지",
+          "market": "KOSDAQ",
+          "relation": "사업 연관(분석)",
+          "reason": "로봇 감속기·모터 공급망 연결 · 공개 주요 제품/사업: 소형 Geared Motor",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "389500",
+          "name": "에스비비테크",
+          "market": "KOSDAQ",
+          "relation": "사업 연관(분석)",
+          "reason": "로봇 정밀감속기 공급망 연결 · 공개 주요 제품/사업: 베어링, 감속기",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "160190",
+          "name": "하이젠알앤엠",
+          "market": "KOSDAQ",
+          "relation": "사업 연관(분석)",
+          "reason": "로봇용 모터·액추에이터 공급망 연결 · 공개 주요 제품/사업: 전동기 및 발전기 (범용모터, 서보모터)",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "437730",
+          "name": "삼현",
+          "market": "KOSDAQ",
+          "relation": "사업 연관(분석)",
+          "reason": "모터·제어·감속 통합 구동장치 연결 · 공개 주요 제품/사업: 스마트 액추에이터, 스마트 파워유닛",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "005380",
+          "name": "현대차",
+          "market": "KOSPI",
+          "relation": "사업 연관(분석)",
+          "reason": "보스턴다이내믹스 등 그룹의 로봇 사업 경유 · 공개 주요 제품/사업: 자동차(승용차,버스,트럭,특장차),자동차부품,자동차전착도료 제조,차량정비사업",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "466100",
+          "name": "클로봇",
+          "market": "KOSDAQ",
+          "relation": "사업 연관(분석)",
+          "reason": "로봇 소프트웨어·운영 솔루션 사업 · 공개 주요 제품/사업: 로봇 소프트웨어(카멜레온, 크롬스)",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "086960",
+          "name": "MDS테크",
+          "market": "KOSDAQ",
+          "relation": "뉴스 직접 언급",
+          "reason": "엔비디아 기반 산업용 AI 하드웨어; 9월 29일 관련 사업 보도",
+          "source_ids": [
+            "n14",
+            "e14-1",
+            "e14-2",
+            "kind"
+          ]
+        },
+        {
+          "code": "090360",
+          "name": "로보스타",
+          "market": "KOSDAQ",
+          "relation": "사업 연관(분석)",
+          "reason": "산업용 로봇·자동화 사업; 국내 로봇 투자 비교 대상 · 공개 주요 제품/사업: 제조용 로봇, FPD 장비, IT부품 제조장비",
+          "source_ids": [
+            "kind"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "theme-15",
+      "title": "국산 비만 치료제 허가 · 신약 재료",
+      "category": "기업 이벤트",
+      "news_date": "2026-10-08",
+      "event_date": null,
+      "status": "발표·확정",
+      "summary": "한미약품의 국산 GLP-1 비만치료제 허가가 보도됨. 허가 후 주가는 차익실현으로 하락해 재료 소멸도 확인.",
+      "market_link": "해당 보도와 관련 사업의 연결을 기준으로 아래 종목을 묶었습니다. 종목별 직접 언급 여부와 분석에 따른 연결을 구분했습니다.",
+      "watch": "허가 당사자는 한미약품. 나머지는 경쟁·대체제·제형 개발 비교군으로 각각 임상과 계약 확인 필요.",
+      "caution": "허가 당사자와 다른 개발·비교 기업을 구분합니다. 개별 기업의 임상 악재가 함께 나타날 수 있습니다.",
+      "source_ids": [
+        "n15",
+        "e15-1",
+        "e15-2",
+        "e15-3"
+      ],
+      "stocks": [
+        {
+          "code": "128940",
+          "name": "한미약품",
+          "market": "KOSPI",
+          "relation": "뉴스 직접 언급",
+          "reason": "국산 비만치료제 허가 보도의 당사자",
+          "source_ids": [
+            "n15",
+            "e15-1",
+            "e15-2",
+            "e15-3",
+            "kind"
+          ]
+        },
+        {
+          "code": "087010",
+          "name": "펩트론",
+          "market": "KOSDAQ",
+          "relation": "사업 연관(분석)",
+          "reason": "장기지속형 약물전달 기술; 비만치료제 제형 비교군 · 공개 주요 제품/사업: 약효지속성 의약품 및 펩타이드 소재",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "389470",
+          "name": "인벤티지랩",
+          "market": "KOSDAQ",
+          "relation": "사업 연관(분석)",
+          "reason": "장기지속형 주사제 개발 플랫폼 비교군 · 공개 주요 제품/사업: 마이크로/나노 입자 기반 약물전달 플랫폼 및 관련 제품",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "347850",
+          "name": "디앤디파마텍",
+          "market": "KOSDAQ",
+          "relation": "사업 연관(분석)",
+          "reason": "GLP-1 계열 비만·대사질환 신약 개발 비교군 · 공개 주요 제품/사업: 대사성질환 치료제 등",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "226950",
+          "name": "올릭스",
+          "market": "KOSDAQ",
+          "relation": "사업 연관(분석)",
+          "reason": "비만·대사질환 관련 RNA 치료제 개발 비교군 · 공개 주요 제품/사업: siRNA 신약 개발",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "000250",
+          "name": "삼천당제약",
+          "market": "KOSDAQ",
+          "relation": "사업 연관(분석)",
+          "reason": "경구용 약물전달·비만치료제 개발 비교군 · 공개 주요 제품/사업: 하메론, 아토로우",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "249420",
+          "name": "일동제약",
+          "market": "KOSPI",
+          "relation": "사업 연관(분석)",
+          "reason": "계열사의 대사질환·비만치료제 개발 경유 · 공개 주요 제품/사업: 아로나민, 후루마린, 큐란, 라비에트, 사미온 등",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "214260",
+          "name": "라파스",
+          "market": "KOSDAQ",
+          "relation": "사업 연관(분석)",
+          "reason": "마이크로니들 비만치료제 제형 개발 비교군 · 공개 주요 제품/사업: 마이크로니들 패치 제품(의약품패치, 의료기기패치, 미용패치 등)",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "003220",
+          "name": "대원제약",
+          "market": "KOSPI",
+          "relation": "사업 연관(분석)",
+          "reason": "비만치료제 패치형 개발 협력 비교군 · 공개 주요 제품/사업: 의약품(해열소염진통제,진해거담제,동맥경화용제,혈압강하제 등), 건강기능식품(프로바이오틱스 등)",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "078140",
+          "name": "대봉엘에스",
+          "market": "KOSDAQ",
+          "relation": "사업 연관(분석)",
+          "reason": "비만치료제 원료의약품 개발·공급망 비교군 · 공개 주요 제품/사업: 원료의약품,화장품원료",
+          "source_ids": [
+            "kind"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "theme-16",
+      "title": "HLB 미국 FDA 허가 · 그룹주 반응",
+      "category": "기업 이벤트",
+      "news_date": "2026-09-29",
+      "event_date": null,
+      "status": "발표·확정",
+      "summary": "HLB의 담관암 치료제 미국 허가 소식으로 그룹주가 동반 반응한 재료.",
+      "market_link": "해당 보도와 관련 사업의 연결을 기준으로 아래 종목을 묶었습니다. 종목별 직접 언급 여부와 분석에 따른 연결을 구분했습니다.",
+      "watch": "미국 출시·매출·허가 조건. 계열사의 신약 권리와 이익 귀속은 서로 다름.",
+      "caution": "허가 대상과 그룹사별 경제적 연결을 구분해야 합니다. 그룹주 전체의 직접 매출 확정은 아닙니다.",
+      "source_ids": [
+        "n16",
+        "e16-1"
+      ],
+      "stocks": [
+        {
+          "code": "028300",
+          "name": "HLB",
+          "market": "KOSDAQ",
+          "relation": "뉴스 직접 언급",
+          "reason": "미국 자회사를 통한 허가 재료의 중심 기업",
+          "source_ids": [
+            "n16",
+            "e16-1",
+            "kind"
+          ]
+        },
+        {
+          "code": "047920",
+          "name": "HLB제약",
+          "market": "KOSDAQ",
+          "relation": "뉴스 직접 언급",
+          "reason": "그룹주 동반 상승 보도; 해당 신약 권리 보유와는 구분",
+          "source_ids": [
+            "n16",
+            "e16-1",
+            "kind"
+          ]
+        },
+        {
+          "code": "067630",
+          "name": "HLB생명과학",
+          "market": "KOSDAQ",
+          "relation": "뉴스 직접 언급",
+          "reason": "그룹주 동반 상승 보도; 해당 신약 권리 보유와는 구분",
+          "source_ids": [
+            "n16",
+            "e16-1",
+            "kind"
+          ]
+        },
+        {
+          "code": "278650",
+          "name": "HLB바이오스텝",
+          "market": "KOSDAQ",
+          "relation": "뉴스 직접 언급",
+          "reason": "그룹주 동반 상승 보도; 해당 신약 권리 보유와는 구분",
+          "source_ids": [
+            "n16",
+            "e16-1",
+            "kind"
+          ]
+        },
+        {
+          "code": "115450",
+          "name": "HLB테라퓨틱스",
+          "market": "KOSDAQ",
+          "relation": "뉴스 직접 언급",
+          "reason": "그룹주 동반 상승 보도; 해당 신약 권리 보유와는 구분",
+          "source_ids": [
+            "n16",
+            "e16-1",
+            "kind"
+          ]
+        },
+        {
+          "code": "003580",
+          "name": "HLB글로벌",
+          "market": "KOSPI",
+          "relation": "뉴스 직접 언급",
+          "reason": "그룹주 동반 상승 보도; 해당 신약 권리 보유와는 구분",
+          "source_ids": [
+            "n16",
+            "e16-1",
+            "kind"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "theme-17",
+      "title": "K뷰티 수출 지역 확대 · 실적 검증",
+      "category": "소비·수출",
+      "news_date": "2026-09-30",
+      "event_date": null,
+      "status": "진행 중",
+      "summary": "K뷰티 수출이 북미를 넘어 유럽·중남미로 확대된 통계와 현지 유통 진출이 보도된 재료.",
+      "market_link": "해당 보도와 관련 사업의 연결을 기준으로 아래 종목을 묶었습니다. 종목별 직접 언급 여부와 분석에 따른 연결을 구분했습니다.",
+      "watch": "지역별 수출·해외 채널 매출·ODM 발주. 산업 전체 수출 증가와 개별 실적을 구분.",
+      "caution": "수출 확대 뉴스가 모든 종목의 실적 개선을 뜻하지 않습니다. 전망 하향 등 개별 악재도 확인합니다.",
+      "source_ids": [
+        "n17",
+        "e17-1",
+        "e17-2"
+      ],
+      "stocks": [
+        {
+          "code": "090430",
+          "name": "아모레퍼시픽",
+          "market": "KOSPI",
+          "relation": "사업 연관(분석)",
+          "reason": "해외 화장품 브랜드 판매; 지역별 수출·유통 확대 연결 · 공개 주요 제품/사업: 화장품,생활용품 제조, 판매",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "051900",
+          "name": "LG생활건강",
+          "market": "KOSPI",
+          "relation": "사업 연관(분석)",
+          "reason": "화장품 해외 판매; 중남미 등 시장 개척 비교 대상 · 공개 주요 제품/사업: 화장품,생활용품 제조,도매",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "278470",
+          "name": "에이피알",
+          "market": "KOSPI",
+          "relation": "사업 연관(분석)",
+          "reason": "화장품·뷰티기기 해외 판매 채널 연결 · 공개 주요 제품/사업: 화장품, 피부미용기기 등",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "192820",
+          "name": "코스맥스",
+          "market": "KOSPI",
+          "relation": "사업 연관(분석)",
+          "reason": "화장품 ODM으로 해외 브랜드·고객사 주문 연결 · 공개 주요 제품/사업: 화장품",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "161890",
+          "name": "한국콜마",
+          "market": "KOSPI",
+          "relation": "사업 연관(분석)",
+          "reason": "화장품 ODM으로 해외 수요와 고객사 주문 연결 · 공개 주요 제품/사업: 화장품, 의약품",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "241710",
+          "name": "코스메카코리아",
+          "market": "KOSDAQ",
+          "relation": "사업 연관(분석)",
+          "reason": "화장품 ODM으로 글로벌 브랜드 주문 연결 · 공개 주요 제품/사업: 화장품 OEM, ODM",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "003350",
+          "name": "한국화장품제조",
+          "market": "KOSPI",
+          "relation": "사업 연관(분석)",
+          "reason": "화장품 제조·ODM으로 수출 브랜드 주문 연결 · 공개 주요 제품/사업: 화장품(OEM,ODM)",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "237880",
+          "name": "클리오",
+          "market": "KOSDAQ",
+          "relation": "사업 연관(분석)",
+          "reason": "색조 화장품 브랜드의 해외 유통 확대 연결 · 공개 주요 제품/사업: 색조화장품, 기초화장품",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "257720",
+          "name": "실리콘투",
+          "market": "KOSDAQ",
+          "relation": "사업 연관(분석)",
+          "reason": "K뷰티 해외 유통·물류 사업으로 채널 확대 연결 · 공개 주요 제품/사업: 화장품 유통",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "018290",
+          "name": "브이티",
+          "market": "KOSDAQ",
+          "relation": "사업 연관(분석)",
+          "reason": "화장품 브랜드 해외 판매·제품 확대 연결 · 공개 주요 제품/사업: 화장품, 라미네이팅필름, 라미네이팅기계",
+          "source_ids": [
+            "kind"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "theme-18",
+      "title": "중국 판호·글로벌 신작 · 출시 성과",
+      "category": "기업 이벤트",
+      "news_date": "2026-10-01",
+      "event_date": null,
+      "status": "후속 확인",
+      "summary": "조이시티의 중국 판호 획득과 NC 아이온2 글로벌 출시가 같은 날 주가 재료로 보도됨.",
+      "market_link": "해당 보도와 관련 사업의 연결을 기준으로 아래 종목을 묶었습니다. 종목별 직접 언급 여부와 분석에 따른 연결을 구분했습니다.",
+      "watch": "중국 허가·출시 일정·매출 순위. 나머지 업체는 해외 흥행 비교군이며 이번 판호 획득 기업이라고 단정하지 않음.",
+      "caution": "판호·출시 사실과 흥행 실적, 회사별 해당 게임 보유 여부를 구분해야 합니다.",
+      "source_ids": [
+        "n18",
+        "e18-1"
+      ],
+      "stocks": [
+        {
+          "code": "067000",
+          "name": "조이시티",
+          "market": "KOSDAQ",
+          "relation": "뉴스 직접 언급",
+          "reason": "3on3 프리스타일 중국 판호 보도의 당사자",
+          "source_ids": [
+            "n18",
+            "e18-1",
+            "kind"
+          ]
+        },
+        {
+          "code": "036570",
+          "name": "NC",
+          "market": "KOSPI",
+          "relation": "뉴스 직접 언급",
+          "reason": "아이온2 글로벌 출시 흥행 보도의 당사자",
+          "source_ids": [
+            "n18",
+            "e18-1",
+            "kind"
+          ]
+        },
+        {
+          "code": "259960",
+          "name": "크래프톤",
+          "market": "KOSPI",
+          "relation": "사업 연관(분석)",
+          "reason": "글로벌 게임 서비스·신작 흥행 비교군 · 공개 주요 제품/사업: 등 게임 소프트웨어",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "251270",
+          "name": "넷마블",
+          "market": "KOSPI",
+          "relation": "사업 연관(분석)",
+          "reason": "글로벌 게임 서비스·신작 흥행 비교군 · 공개 주요 제품/사업: 온라인·모바일 게임 소프트웨어 개발 및 공급",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "263750",
+          "name": "펄어비스",
+          "market": "KOSDAQ",
+          "relation": "사업 연관(분석)",
+          "reason": "글로벌 PC·콘솔 게임의 흥행 비교군 · 공개 주요 제품/사업: 게임 개발 서비스(검은사막 및 붉은사막)",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "293490",
+          "name": "카카오게임즈",
+          "market": "KOSDAQ",
+          "relation": "사업 연관(분석)",
+          "reason": "게임 퍼블리싱·해외 출시 비교군 · 공개 주요 제품/사업: 모바일, PC게임 퍼블리싱",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "112040",
+          "name": "위메이드",
+          "market": "KOSDAQ",
+          "relation": "사업 연관(분석)",
+          "reason": "중국 IP·글로벌 게임 사업의 비교군 · 공개 주요 제품/사업: 미르의전설2, 미르4",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "078340",
+          "name": "컴투스",
+          "market": "KOSDAQ",
+          "relation": "사업 연관(분석)",
+          "reason": "글로벌 모바일게임·신작 흥행 비교군 · 공개 주요 제품/사업: 모바일게임",
+          "source_ids": [
+            "kind"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "theme-19",
+      "title": "증시 반등 · 거래대금과 증권주",
+      "category": "시장 흐름",
+      "news_date": "2026-09-22",
+      "event_date": null,
+      "status": "후속 확인",
+      "summary": "국내 증시 반등에 증권주가 함께 올랐다가 지수 상승폭 축소에 동반 둔화한 시황 재료.",
+      "market_link": "해당 보도와 관련 사업의 연결을 기준으로 아래 종목을 묶었습니다. 종목별 직접 언급 여부와 분석에 따른 연결을 구분했습니다.",
+      "watch": "일평균 거래대금·고객예탁금·신용잔고·증시 방향. 거래대금 증가와 투자자산 손익을 함께 확인.",
+      "caution": "특정 거래일 반등 재료이며 현재까지 동일한 강세가 지속된다는 뜻은 아닙니다.",
+      "source_ids": [
+        "n19",
+        "e19-1"
+      ],
+      "stocks": [
+        {
+          "code": "006800",
+          "name": "미래에셋증권",
+          "market": "KOSPI",
+          "relation": "뉴스 직접 언급",
+          "reason": "증권 중개·운용 사업; 해당 일자 시장 반응 보도",
+          "source_ids": [
+            "n19",
+            "e19-1",
+            "kind"
+          ]
+        },
+        {
+          "code": "003530",
+          "name": "한화투자증권",
+          "market": "KOSPI",
+          "relation": "뉴스 직접 언급",
+          "reason": "증권 중개·운용 사업; 해당 일자 시장 반응 보도",
+          "source_ids": [
+            "n19",
+            "e19-1",
+            "kind"
+          ]
+        },
+        {
+          "code": "039490",
+          "name": "키움증권",
+          "market": "KOSPI",
+          "relation": "사업 연관(분석)",
+          "reason": "개인투자자 위탁매매 중심으로 거래대금 변화 연결 · 공개 주요 제품/사업: 유가증권의 매매, 위탁, 인수, 주선",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "001510",
+          "name": "SK증권",
+          "market": "KOSPI",
+          "relation": "사업 연관(분석)",
+          "reason": "증권 중개·운용 사업의 시황 민감도 비교 · 공개 주요 제품/사업: 증권업,부동산 임대",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "005940",
+          "name": "NH투자증권",
+          "market": "KOSPI",
+          "relation": "사업 연관(분석)",
+          "reason": "증권 중개·운용 사업의 시황 민감도 비교 · 공개 주요 제품/사업: 증권업,종합금융",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "016360",
+          "name": "삼성증권",
+          "market": "KOSPI",
+          "relation": "사업 연관(분석)",
+          "reason": "증권 중개·자산관리 사업의 시황 민감도 비교 · 공개 주요 제품/사업: 유가증권의 매매,위탁매매,인수주선",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "003540",
+          "name": "대신증권",
+          "market": "KOSPI",
+          "relation": "사업 연관(분석)",
+          "reason": "증권 중개·운용 사업의 시황 민감도 비교 · 공개 주요 제품/사업: 유가증권 위탁매매,인수주선,자기매매 기타 금융서비스",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "003470",
+          "name": "유안타증권",
+          "market": "KOSPI",
+          "relation": "사업 연관(분석)",
+          "reason": "증권 중개·운용 사업의 시황 민감도 비교 · 공개 주요 제품/사업: 유가증권 매매,중개,대리,인수",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "030210",
+          "name": "다올투자증권",
+          "market": "KOSPI",
+          "relation": "사업 연관(분석)",
+          "reason": "증권 중개·운용 사업의 시황 민감도 비교 · 공개 주요 제품/사업: 금융업, 서비스, 부동산",
+          "source_ids": [
+            "kind"
+          ]
+        },
+        {
+          "code": "001720",
+          "name": "신영증권",
+          "market": "KOSPI",
+          "relation": "사업 연관(분석)",
+          "reason": "증권·자산관리 사업의 시황 민감도 비교 · 공개 주요 제품/사업: 증권업",
+          "source_ids": [
+            "kind"
+          ]
+        }
+      ]
+    }
+  ]
+}
