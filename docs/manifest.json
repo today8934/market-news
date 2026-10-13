@@ -1,0 +1,17 @@
+{
+  "generator": "market-news-page",
+  "reports": [
+    {
+      "id": "2026-10-13-200223-02a570dd",
+      "as_of": "2026-10-13",
+      "period_start": "2026-09-14",
+      "generated_at": "2026-10-13T20:02:23+09:00",
+      "path": "archive/2026-10-13-200223-02a570dd.html",
+      "data": "data/2026-10-13-200223-02a570dd.json",
+      "themes": 19,
+      "stocks": 200,
+      "connections": 200
+    }
+  ],
+  "latest": "2026-10-13-200223-02a570dd"
+}
